@@ -22,8 +22,11 @@ to export the database file named "map.sql" located in "Main File/Database Struc
 You need to go to the "Main File/functions" folder and need to edit the file named "database.php". You'll find 4 variable there.
 
 $DatabaseHost = "localhost"; #Database host address
+
 $DatabaseUser = "root";      #Database user name
+
 $DatabasePass = "";          #Database user password
+
 $DatabaseName = "map";       #Database name
 
 and you are done.
